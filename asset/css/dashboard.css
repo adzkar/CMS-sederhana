@@ -1,0 +1,75 @@
+.halaman {
+	width: 100vw;
+	height: 100vh;
+  	font-family: 'lato light';
+}
+.halaman a {
+	text-decoration: none;
+	color: #fff;
+	font-family: 'lato medium', sans-serif;
+}
+.halaman .atas {
+	padding: 20px;
+	background-color: #fff;
+	color: #E6E2E1;
+}
+.halaman .isinya {
+	display: flex;
+	flex-direction: row;
+	height: 100%;
+}
+.halaman .isinya .kiri {
+	width: 20%;
+	height: 100%;
+	background-color: #273238;
+}
+.halaman .profil {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.halaman .profil .lingkaran {
+	border-radius: 90px;
+	display: block;
+	background-color: red;
+	width: 80px;
+	height: 80px;
+}
+.halaman .profil h4 {
+	display: block;
+	color: #fff;
+	font-family: 'lato light';
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+.halaman .isinya .menu {
+	margin-top: 20px;
+}
+.halaman .menu a {
+	padding: 10px;
+	display: block;
+}
+.halaman .menu a:hover {
+	background-color: #3D464C;
+}
+.halaman .menu ul li {
+	text-indent: 20px;
+}
+.halaman .isinya .kontenya {
+	background-color: #E6E2E1;
+	width: 100%;
+  	font-family: 'lato light';
+}
+.halaman .isinya .kontenya .kotak {
+	margin-left: 30px;
+	margin-top: 45px;
+	background-color: #fff;
+	width: 85%;
+	padding: 20px;
+	border: 2px solid #ecf0f1;
+	font-family: 'lato light';
+}

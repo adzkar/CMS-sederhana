@@ -1,0 +1,62 @@
+body {
+	background-color: #025670;
+}
+.pesan {
+	position: fixed;
+	width: 100vw;
+	padding: 10px;
+	background-color: #e74c3c;	
+	margin-top: -100px;
+	text-align: center;
+}
+.login {
+	width: 30%;
+	margin: auto;
+	margin-top: 150px;
+}
+h1 {
+	font-family: 'medium';
+	color : #FFFEFA;
+	text-align: center;	
+	margin-bottom: 20px;
+	text-shadow: 4px 4px 3px #34495e;
+}
+.isi {
+	background-color: #fff;
+	/*padding: 30px;*/
+	padding-top: 30px;
+	overflow: hidden;
+	border-radius: 6px;
+	box-shadow: 4px 4px 3px #34495e;
+}
+.isi form {
+	display: flex;
+	flex-direction: column;
+}
+.isi form input {
+	height: 35px;
+	margin: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-indent: 15px;
+}
+.isi form .formnya {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.isi form button {
+	background-color: #00BFFE;
+	color: #fff;
+	font-size: 1.3em;
+	border-width: 0;
+	height: 45px;
+	width: 100%;
+	font-family: 'medium';
+	cursor: pointer;
+}
+.isi form button:hover {
+	background-color: #0BA5D8;
+}

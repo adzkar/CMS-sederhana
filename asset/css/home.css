@@ -1,0 +1,25 @@
+.menu {
+	background-color: #ecf0f1;
+	padding: 10px;
+}
+.menu a{
+	text-decoration: none;
+	font-family: 'thin';
+	color: #34495e;
+}
+.menu ul {
+	list-style: none;
+}
+
+/*layouting*/
+.menu .container {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+.menu ul.menu {
+	display: flex;
+}
+.menu ul a {
+	padding: 10px;
+}

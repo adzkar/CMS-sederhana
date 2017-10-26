@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'thin';
+	src: url('../fonts/Lato-Light.ttf');
+	/*src: url('../fonts/MontserratAlternates-Thin.otf');*/
+}
+
+@font-face {
+	font-family: 'medium';
+	src: url('../fonts/Montserrat-Medium.otf');
+}
+
+@font-face {
+	font-family: 'lato light';
+	src: url('../fonts/Lato-Light.ttf');
+}
+
+@font-face {
+	font-family: 'lato medium';
+	src: url('../fonts/Lato-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'lato bold';
+	src: url('../fonts/Lato-Bold.ttf');
+}
