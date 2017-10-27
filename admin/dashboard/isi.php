@@ -13,6 +13,8 @@
 		include 'hapus.php';
 	} elseif ($page == 'komentar') {
 		include 'komentar.php';
+	} elseif ($page == 'hapus_komentar') {
+		include 'hapus_komentar.php';
 	} else {
 		echo "Hello World";
 	}

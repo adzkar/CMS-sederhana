@@ -27,6 +27,10 @@
 						echo "<td>";
 						echo $r->komentar;
 						echo "</td>";
+						echo "<td class='edit-delete'>";
+						echo "<a href='{$url}?page=halaman&id=$r->id_post' target='_blank'>Lihat</a>";
+						echo "<a href='?page=hapus_komentar&id=$r->id_komentar'>Delete</a>";
+						echo "</td>";
 						$no++;
 					}
 				} else {
