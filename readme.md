@@ -20,7 +20,12 @@ Project ini adalah sebuah project CMS (Content Management System) sederhana yang
 ### Username dan Password
 untuk username dan password pertama gunakan admin sebagai username dan passwordnya. Untuk mengedit username dan passswordnya edit tabel admin. Untuk bagian password gunakan hash md5 untuk mengisinya
 
+
+
+
+
+
 Sekian,
 
-Terimakasih
+Terimakasih,
 Adzkar Fauzie Rahman
