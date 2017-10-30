@@ -34,6 +34,7 @@
 			<div class="kontenya">
 				<div class="kotak">
 					<?php  
+						// akan berubah-ubah menyesuaikan get nya
 						include 'isi.php';
 					?>
 				</div>
