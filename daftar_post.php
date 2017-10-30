@@ -1,4 +1,5 @@
 <?php  
+	// file untuk list artikel di home
 	$read = $blog->read($post);
 	$total = $read->rowCount();
 	if ($total > 0) {
