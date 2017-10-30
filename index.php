@@ -1,4 +1,5 @@
 <?php  
+	// Index home file
 	include 'config/web.php';
 ?>
 <!DOCTYPE html>
