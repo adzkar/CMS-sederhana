@@ -1,4 +1,5 @@
 <?php  
+	// yang load atikel, akan menyesuaikan dengan get yang didapatkan 
 	$page = @$_GET["page"];
 	if ($page == 'halaman') {
 		include 'content.php';
