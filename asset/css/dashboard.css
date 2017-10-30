@@ -13,6 +13,7 @@
 	background-color: #fff;
 	color: #E6E2E1;
 }
+/*bagian kiri*/
 .halaman .isinya {
 	display: flex;
 	flex-direction: row;
@@ -59,6 +60,7 @@
 .halaman .menu ul li {
 	text-indent: 20px;
 }
+/*bagian isinya*/
 .halaman .isinya .kontenya {
 	background-color: #E6E2E1;
 	width: 100%;
