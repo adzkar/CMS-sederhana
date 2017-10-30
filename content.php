@@ -1,4 +1,5 @@
 <?php  
+	// halaman ini berisi halaman artikel
 	$id = @$_GET["id"];
 	$data = array('id_post' => $id);
 	$post = $blog->read($post, $data);
