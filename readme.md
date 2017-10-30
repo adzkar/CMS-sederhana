@@ -8,7 +8,7 @@ Project ini adalah sebuah project CMS (Content Management System) sederhana yang
 - Edit artikel yang sudah di posting
 - Hapus artikel yang sudah diposting
 - Komentar
-- Hapus komentar
+- Hapus komentar bagi Admin
 
 ### Cara Instalasi
 1. Buat database baru di phpmyadmin dengan nama 'myBlog' ( Tanpa tanda petik dan perhatikan kapital tidaknya huruf )
