@@ -1,4 +1,5 @@
 <?php  
+	// untuk memberikan komentar
 	$nama = $_POST["nama"];
 	$komen = $_POST["komen"];
 	$id_post = $_POST["id_post"];
